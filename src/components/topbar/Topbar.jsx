@@ -18,7 +18,7 @@ function Topbar({menuOpen,setMenuOpen}) {
 
                     <div className="itemContainer">
                         <Mail classname="icon"/>
-                        <span> hoody@gmail.com </span>
+                        <span> hoody@company.com </span>
 
                     </div>
                 </div>
