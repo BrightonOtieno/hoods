@@ -21,16 +21,16 @@ function Portfolio() {
         },
     
         {
-            id:'mobile',
-            title:"Mobile App",
+            id:'data',
+            title:"Data Analysis",
         },
         {
-            id:'design',
-            title:"Design",
+            id:'machine',
+            title:"Machine Learning",
         },
         {
-            id:'content',
-            title:"Content",
+            id:'data-viz',
+            title:"Data Viz",
         },
     ]
 
@@ -42,13 +42,13 @@ function Portfolio() {
             case "web":
                 setData(webPortfolio);
                 break;
-            case "mobile":
+            case "data":
                 setData(mobilePortfolio);
                 break;
-            case "design":
+            case "machine":
                 setData(designPortfolio);
                 break;
-            case "content":
+            case "data-viz":
                 setData(contentPortfolio);
                 break;
             default:
@@ -58,7 +58,7 @@ function Portfolio() {
     }, [selected]);
     return (
         <div className="portfolio" id="portfolio">
-            <h1>Portfolio</h1>
+            <h1 style={{paddingTop:"20px"}}>Portfolio</h1>
             <ul>
                 {list.map((item)=>(
                     <PortfolioList key={item.id}

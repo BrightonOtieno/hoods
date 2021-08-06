@@ -14,7 +14,7 @@ function Intro() {
             showCursor:true,
             backDelay:1500, // 1 and half second
             backSpeed:60,
-            strings:["Developer","Designer","Content creator"]
+            strings:[" Web Developer"," Web & Data Designer","Data Analyst"]
         });
 
 
@@ -23,7 +23,9 @@ function Intro() {
         <div className="intro" id="intro">
             <div className="left">
                 <div className="imageContainer">
-                    <img src="assets/man.png" alt="portfolio-pic" />
+                
+                        <img src="assets/profile.jpg" alt="portfolio-pic" />
+                    
                 </div>
             </div>
 
@@ -31,7 +33,7 @@ function Intro() {
             <div className="right">
                 <div className="wrapper">
                     <h2> Hi there ,I'm</h2>
-                    <h1>John Doe</h1>
+                    <h1>Brighton Otieno</h1>
                     <h3>Freelance <span ref={textRef}></span> </h3>
                 </div>
 

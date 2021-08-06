@@ -12,13 +12,13 @@ function Topbar({menuOpen,setMenuOpen}) {
                     <a href="#intro" className ="logo">Hoody.</a>
                     <div className="itemContainer">
                         <Person classname="icon"/>
-                        <span> +44 924 12 74 </span>
+                        <span> 0789026157</span>
 
                     </div>
 
                     <div className="itemContainer">
                         <Mail classname="icon"/>
-                        <span> hoody@company.com </span>
+                        <span><a style={{textDecoration:"none"}} href="https://www.linkedin.com/in/abungu-b-697755161/">linkedIn</a>  </span>
 
                     </div>
                 </div>
