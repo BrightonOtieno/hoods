@@ -12,7 +12,7 @@ function Topbar({menuOpen,setMenuOpen}) {
                     <a href="#intro" className ="logo">Hoody.</a>
                     <div className="itemContainer">
                         <Person classname="icon"/>
-                        <span> 0789026157</span>
+                        <span><a style={{textDecoration:"none"}} href="https://github.com/BrightonOtieno">Github</a>  </span>
 
                     </div>
 

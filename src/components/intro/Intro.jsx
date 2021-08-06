@@ -24,7 +24,7 @@ function Intro() {
             <div className="left">
                 <div className="imageContainer">
                 
-                        <img src="assets/profile.jpg" alt="portfolio-pic" />
+                        {/*<img src="assets/profile.jpg" alt="portfolio-pic" />*/}
                     
                 </div>
             </div>
