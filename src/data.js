@@ -3,37 +3,44 @@ export const featuredPortfolio = [
       id: 1,
       title: "Covid-19 Tracker ",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+      "https://bsmedia.business-standard.com/_media/bs/img/article/2020-03/16/full/1584333710-2299.jpg",
+      imgUrl:"https://brightonotieno.github.io/covid19-viz/",
     },
+
     {
       id: 2,
       title: "Netflix Clone",
       img:
-        "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
+        "https://assets.materialup.com/uploads/455710a0-6d36-4a9d-95cb-dfa280604dd3/preview.png",
+      imgUrl:"https://netflix-clone-af941.firebaseapp.com/",
     },
     {
       id: 3,
       title: "E-commerce Web Design",
       img:
         "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+      imgUrl:"https://netflix-clone-af941.firebaseapp.com/"
     },
     {
       id: 4,
       title: "Tesla Clone",
       img:
-        "https://cdn.dribbble.com/users/4095861/screenshots/15467417/media/d6a15c416626f12b31fa5ca1db192572.png?compress=1&resize=1200x900",
+        "assets/projectimg/tesla.png",
+      imgUrl:"https://brightonotieno.github.io/tesla-clone/"
     },
     {
       id: 5,
       title: "Hero Web Design",
       img:
         "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+      imgUrl:"https://brightonotieno.github.io/tesla-clone/"
     },
     {
       id: 6,
       title: "Banking App",
       img:
         "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
+      imgUrl:"https://brightonotieno.github.io/tesla-clone/"
     },
   ];
   
