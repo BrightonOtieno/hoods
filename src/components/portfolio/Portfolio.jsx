@@ -58,7 +58,7 @@ function Portfolio() {
     }, [selected]);
     return (
         <div className="portfolio" id="portfolio">
-            <h1 style={{paddingTop:"20px"}}>Portfolio</h1>
+            <h1 style={{paddingTop:"20px",overflow:"hidden"}}>Portfolio</h1>
             <ul>
                 {list.map((item)=>(
                     <PortfolioList key={item.id}

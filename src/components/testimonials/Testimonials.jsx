@@ -5,7 +5,7 @@ function Testimonials() {
     console.log(data);
     return (
         <div className="testimonials" id="testimonials">
-            <h1>Testimonials</h1>
+            <h1 style={{overflow:"hidden",paddingTop:"20px"}}>Testimonials</h1>
             <div className="container">
                 { data.map(d=>(
                 <div className={d.featured ? "card featured" :"card"}>

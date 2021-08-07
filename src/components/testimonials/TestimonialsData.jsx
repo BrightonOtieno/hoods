@@ -1,33 +1,32 @@
 export const data = [
     {
       id: 1,
-      name: "Tom Durden",
-      title: "Senior Developer",
+      name: "Artificial Intelligence",
+      title: "Machine Learning",
       img:
-        "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      icon: "assets/twitter.png",
+        "assets/ai.jpg",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
+        " AWS, Sci-kit Learn, Tensorflow,  Pytorch ",
     },
     {
       id: 2,
-      name: "Alex Kalinski",
-      title: "Co-Founder of DELKA",
+      name: "Data World",
+      title: " Data Analytics,  Data Design ,  Data Storytelling",
       img:
-        "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "assets/data.jpg",
       icon: "assets/youtube.png",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
+        " D3.js , Tablue, Pandas , Matplotlib & Seaborn ",
       featured: true,
     },
     {
       id: 3,
-      name: "Martin Harold",
-      title: "CEO of ALBI",
+      name: "Web Development",
+      title: "Development & Design",
       img:
-        "https://images.pexels.com/photos/3863793/pexels-photo-3863793.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "assets/dev.png",
       icon: "assets/linkedin.png",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem",
+        " HTML5 , Javascript,  Reactjs,  Django",
     },
   ];

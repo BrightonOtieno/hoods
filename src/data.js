@@ -14,20 +14,22 @@ export const featuredPortfolio = [
         "https://assets.materialup.com/uploads/455710a0-6d36-4a9d-95cb-dfa280604dd3/preview.png",
       imgUrl:"https://netflix-clone-af941.firebaseapp.com/",
     },
+
     {
       id: 3,
-      title: "E-commerce Web Design",
-      img:
-        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
-      imgUrl:"https://netflix-clone-af941.firebaseapp.com/"
-    },
-    {
-      id: 4,
       title: "Tesla Clone",
       img:
         "assets/projectimg/tesla.png",
       imgUrl:"https://brightonotieno.github.io/tesla-clone/"
     },
+    {
+      id: 4,
+      title: "E-commerce Web Design",
+      img:
+        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+      imgUrl:"https://netflix-clone-af941.firebaseapp.com/"
+    },
+    
     {
       id: 5,
       title: "Hero Web Design",
@@ -35,20 +37,16 @@ export const featuredPortfolio = [
         "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
       imgUrl:"https://brightonotieno.github.io/tesla-clone/"
     },
-    {
-      id: 6,
-      title: "Banking App",
-      img:
-        "https://cdn.dribbble.com/users/3307260/screenshots/15468444/media/447b4501f7a145b05e11c70199a9c417.jpg?compress=1&resize=1200x900",
-      imgUrl:"https://brightonotieno.github.io/tesla-clone/"
-    },
+  
   ];
   
   export const webPortfolio = [
     {
       id: 1,
-      title: "Web Social Media App",
-      img: "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+      title: "Netflix Clone",
+      img:
+        "https://assets.materialup.com/uploads/455710a0-6d36-4a9d-95cb-dfa280604dd3/preview.png",
+      imgUrl:"https://netflix-clone-af941.firebaseapp.com/",
     },
     /*{
       id: 2,
@@ -81,9 +79,10 @@ export const featuredPortfolio = [
   export const mobilePortfolio = [
     {
       id: 1,
-      title: "Mobile Social Media App",
+      title: "Covid-19 Tracker ",
       img:
-        "https://cdn.dribbble.com/users/2597268/screenshots/15468893/media/44313553d73ba41580f1df69749bba28.jpg?compress=1&resize=1200x900",
+      "https://bsmedia.business-standard.com/_media/bs/img/article/2020-03/16/full/1584333710-2299.jpg",
+      imgUrl:"https://brightonotieno.github.io/covid19-viz/",
     },
     /*
     {
@@ -165,7 +164,7 @@ export const featuredPortfolio = [
       id: 1,
       title: "Content Social Media App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "assets/projectimg/dataviz.png",
     },
     /*
     {
