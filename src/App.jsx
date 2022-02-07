@@ -19,12 +19,15 @@ function App() {
       <Topbar menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
       <Menu  menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
       <div className="sections">
+        <div style={{display:"flex",alignContent:'center', justifyItems:"center"}}>
+          <h4>Site has been moved to: <a href="https://brightonhoods.herokuapp.com/">Click Here</a></h4>
+        </div>
     
-        <Intro/>
+        {/* <Intro/>
         <Portfolio/>
         <Works/>
         <Testimonials/>
-        <Contact/> 
+        <Contact/>  */}
       </div>
       
 
